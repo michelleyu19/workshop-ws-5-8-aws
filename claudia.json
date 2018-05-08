@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "workshop-ws-5-8-michelleyu-executor",
+    "name": "workshop-ws-5-8-michelleyu",
+    "region": "us-east-2"
+  }
+}
